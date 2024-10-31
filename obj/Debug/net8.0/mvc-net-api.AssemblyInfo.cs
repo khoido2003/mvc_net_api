@@ -10,10 +10,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("cfe6d83a-4608-42a1-897c-e0f1dabb61b6")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("mvc-net-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+096d0264da881bb05d068b4f5c4703a7380c5998")]
 [assembly: System.Reflection.AssemblyProductAttribute("mvc-net-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mvc-net-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
