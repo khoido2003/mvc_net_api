@@ -64,3 +64,9 @@ bash
 ```
 dotnet ef database update
 ```
+
+## Clear nuget local
+bash 
+```
+dotnet nuget locals all --clear
+```
