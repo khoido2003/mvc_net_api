@@ -33,7 +33,7 @@ dotnet user-secrets init
 
 dotnet user-secrets set "UserId" "sa"
 
-dotnet user-secrets set "Password" "Khoizpro7@"
+dotnet user-secrets set "Password" "PASS"
 
 dotnet user-secrets remove "Password"
 
